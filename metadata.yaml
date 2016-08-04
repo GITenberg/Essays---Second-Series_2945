@@ -1,0 +1,35 @@
+_repo: Essays---Second-Series_2945
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: '[First series]: History. Self-reliance. Compensation. Spiritual laws.
+  Love. Friendship. Prudence. Heroism. The over-soul. Circles. Intellect. Art.--Second
+  series: The poet. Experience. Character. Manners. Gifts. Nature. Politics. Nominalist
+  and realist. New England reformers; a lecture at Amory Hall.'
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The poet -- Experience -- Character -- Manners -- Gifts -- Nature
+  -- Politics -- Nominalist and realist -- New England reformers.
+title: Essays — Second Series
+url: http://www.gutenberg.org/ebooks/2945
